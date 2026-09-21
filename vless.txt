@@ -1,0 +1,3 @@
+# G2Ray VLESS Subscription Channel
+# Initialized by DevStudio
+# GitHub Actions will refresh this file every 30 minutes with tested low-ping nodes.
